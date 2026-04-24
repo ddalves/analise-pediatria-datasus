@@ -5,7 +5,7 @@ O desafio começou na extração de dados oficiais. Analisei as internações no
      Período: Outubro e Novembro (2011 a 2025).
      Público: Faixa etária de menores de 1 ano até 9 anos.
 
-     Desafios Técnicos (Data Wrangling)
+## Desafios Técnicos (Data Wrangling)
 Arquivos em CSV bruto vindos do DataSUS precisam de um tratamento rigoroso antes da manipulação. Utilizando a biblioteca Pandas, realizei:
 
 Remoção de metadados (cabeçalhos e rodapés do TabNet).
